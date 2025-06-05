@@ -1,4 +1,3 @@
-```markdown
 # 🚗 Sistema de Gestión de Vehículos
 
 ¡Bienvenido al **Sistema de Gestión de Vehículos**! Este programa te permite administrar un inventario de vehículos, incluyendo opciones para rentar, devolver y visualizar su disponibilidad. Desarrollado en Python para terminal, con una interfaz colorida y amigable.
@@ -101,4 +100,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ¡Gracias por usar el **Sistema de Gestión de Vehículos**! 🚀  
 Desarrollado con ❤️ por [Alex Salazar].
-```

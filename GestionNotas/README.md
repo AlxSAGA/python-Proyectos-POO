@@ -1,4 +1,3 @@
-```markdown
 # Gestor de Notas ALX
 
 Aplicación de línea de comandos para organización de apuntes estudiantiles. Desarrollado en Python con programación orientada a objetos.
@@ -85,4 +84,3 @@ Distribuido bajo licencia MIT. Ver `LICENSE` para más detalles.
 - Interfaz colorizada para mejor experiencia de usuario
 - Validación de entradas para índices y selecciones de menú
 - Sistema multiplataforma (Windows/Linux/macOS)
-```
